@@ -14,7 +14,7 @@ def geocode(address):
     return result
 
 
-home = geocode('7 donnelly street, stonefields, auckland')
+home = geocode('5000 donnelly street, stonefields, auckland')
 
 print(home['lat'])
 print(home['lng'])
