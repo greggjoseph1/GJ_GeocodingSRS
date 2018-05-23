@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# -*- coding: utf8 -*-
 
 #Bring in resources
 import googlemaps, base64, ibm_db, smtplib
